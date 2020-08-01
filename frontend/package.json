@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "antd": "3.8.1",
-    "elliptic": "6.4.1",
+    "elliptic": "6.5.3",
     "ethereumjs-util": "5.2.0",
     "ethereumjs-wallet": "0.6.2",
     "merkle-tree-solidity": "1.0.8",
